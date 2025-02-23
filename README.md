@@ -7,25 +7,6 @@ Build React Typescript Authentication and Authorization example using React Hook
 - React Typescript Components for accessing protected Resources (Authorization)
 - Dynamic Navigation Bar in React Typescript App
 
-For instruction, please visit:
-> [React Typescript Authentication example with Hooks, Axios and Rest API](https://www.bezkoder.com/react-typescript-authentication-example/)
-
-Signup Page:
-
-![react-typescript-authentication-example-signup](react-typescript-authentication-example-signup.png)
-
-Form Validation:
-
-![react-typescript-authentication-example-form-validation](react-typescript-authentication-example-form-validation.png)
-
-Login Page:
-
-![react-typescript-authentication-example-login](react-typescript-authentication-example-login.png)
-
-Profile Page:
-
-![react-typescript-authentication-example-profile-page](react-typescript-authentication-example-profile-page.png)
-
 This React Client works well with following back-end Server:
 > [Spring Boot: JWT Authentication & Authorization with MySQL](https://www.bezkoder.com/spring-boot-jwt-authentication/)
 
